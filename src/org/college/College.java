@@ -33,6 +33,14 @@ System.out.println("sudha");
 		
 	
 	}
+
 	
 
+private void college() {
+System.out.println("ACT Tech");
+
+
+
+
+}
 }
