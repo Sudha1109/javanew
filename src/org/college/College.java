@@ -25,5 +25,10 @@ public class College {
 		
 	
 	}
+private void college() {
+System.out.println("ACT Tech");
 
+
+
+}
 }
