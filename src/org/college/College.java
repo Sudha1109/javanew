@@ -15,6 +15,14 @@ public class College {
 
 		System.out.println("College Rank: 12");
 	}
+	
+	private void collegeSpace() {
+System.out.println("College space 100");
+	}
+	
+	private void sudha() {
+System.out.println("sudha");
+	}
 
 	public static void main(String[] args) {
 
@@ -25,5 +33,6 @@ public class College {
 		
 	
 	}
+	
 
 }
